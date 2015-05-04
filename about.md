@@ -19,11 +19,15 @@ title: About Xu Junfu
     </div>
     <div class="row"> 
       <label class="col-sm-2 control-label">邮箱：</label>
-      <div class="col-sm-6">xujunfu@shu.edu.cn</div>
+      <div class="col-sm-6"><a href="mailto:xujunfu@shu.edu.cn">xujunfu@shu.edu.cn</a></div>
     </div>
     <div class="row"> 
       <label class="col-sm-2 control-label">现居：</label>
       <div class="col-sm-6">上海市-宝山区</div>
+    </div>
+    <div class="row"> 
+      <label class="col-sm-2 control-label">毕业学校：</label>
+      <div class="col-sm-6">上海大学</div>
     </div>
     <div class="row"> 
       <label class="col-sm-2 control-label">喜欢的书：</label>
