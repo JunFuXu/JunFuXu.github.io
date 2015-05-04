@@ -1,4 +1,4 @@
-title: Xu Junfu
+title: 新成
 description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
 
 url: http://JunFuXu.github.com
@@ -11,9 +11,9 @@ highlighter: pygments
 paginate: 5
 
 navigation:
- - title: Home
+ - title: 主页
    url: /index.html
- - title: About
+ - title: 关于
    url: /about
  - title: Contact
    url: /contact

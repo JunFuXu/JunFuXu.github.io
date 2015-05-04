@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Contact Xu Junfu
+title: Contact 新成
 ---
 
 <div id="contact">
