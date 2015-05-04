@@ -9,6 +9,10 @@ title: About Xu Junfu
 	<p class="intro">一个行走在海滩边的少年,大海边玩耍. 听说，海边的贝壳形态各异，颜色五彩槟纷,我早就着了迷. 我希望能拾到最美的贝壳. 捡起那些漂亮的贝壳, 欣赏它的纹理,它的形状. 感慨大自然的力量和智慧的同时,我被深深的被它折服. 一天、两天、三天…… 我就这样继续不停拾着小巧的贝壳，各种形状的贝壳满满的装了一大袋,我希望能拾到最美的贝壳，手捧贝壳送给心爱的TA。</p>
 	<h2>爱好和特点</h2>
 	<ul>
+    <li class="row"> 
+      <label class="col-sm-2 control-label">Email</label>
+      <div class="col-sm-6">xujunfu@shu.edu.cn</div>
+    </li>
 		<li>Built with <a href="http://sass-lang.com/">SASS</a> + <a href="http://compass-style.org/">COMPASS</a></li>
   		<li>Layout with <a href="http://susy.oddbird.net/">SUSY Grid</a></li>
   		<li>SVG Social Icons from <a href="http://customizr.net/icons/">Customizr</a></li>
