@@ -10,7 +10,7 @@ title: Contact Xu Junfu
     <p>The form is provided by <a href="http://formspree.io/">Formspree.</a> Follow the directions on their site to set up the form for use.</p>
     <p>If you have questions about the theme feel free to <a href="mailto:xujunfu@shu.edu.cn">email me</a> or create an issue on <a href="https://github.com/JunFuXu">GitHub</a>. Enjoy!</p>
   </div>
-  <form action="http://formspree.io/xujunfu@shu.edu.cn" method="POST">
+  <form action="https://formspree.io/xujunfu@shu.edu.cn" method="POST">
     <label for="name">姓名</label>    
     <input type="text" id="name" name="name" class="full-width"><br>
     <label for="email">Email</label>
