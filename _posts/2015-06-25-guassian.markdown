@@ -48,6 +48,7 @@ X的熵计算：
 *	预测就更难
 *	压缩就更难
 *	极端更少
+
 ### 3.1 Box 分布
 ![boxDistributiongFormula.png]({{ '/assets/img/gaussian/boxDistribution.png' | prepend: site.baseurl }})
 
