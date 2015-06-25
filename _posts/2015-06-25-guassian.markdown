@@ -7,7 +7,9 @@ date:   2015-06-25
 p{
 	text-indent: 2em;
 }
-
+.post img {
+  margin-bottom: 0rem;
+}
 </style>
 
 <p class="intro">
@@ -103,8 +105,8 @@ ps:正态分布是在方差为1的分布中熵最大的分布
 ## 四 中心极限定理(central limit theorem)
 
 <p>
-设随机变量序列<img src="http://www.forkosh.com/mathtex.cgi?$X_1,X_2,...,X_n$">相互独立，均具有相同的数学期望与方差，且<img src="http://www.forkosh.com/mathtex.cgi?$E(X_i)=U_i, D(X_i)=R_i^2,i=1,2,...,n$"> 定义<img src="http://www.forkosh.com/mathtex.cgi?$Z = f(X_1,X_2,...,X_n)=\frac{1}{n} \sum_{i=1}^{n}X_i$">,
-则当<b><i>N</i></b>充分大时，<b><i>N</i></b>近似服从均值为<b><i>μ</i></b>、方差为<img src="http://www.forkosh.com/mathtex.cgi?${\delta^{2}}/{n}$"> 的正态分布，即<b><i>X~N(U,O)</i></b>。
+设随机变量序列<img src="https://www.forkosh.com/mathtex.cgi?$X_1,X_2,...,X_n$">相互独立，均具有相同的数学期望与方差，且<img src="https://www.forkosh.com/mathtex.cgi?$E(X_i)=U_i, D(X_i)=R_i^2,i=1,2,...,n$"> 定义<img src="https://www.forkosh.com/mathtex.cgi?$Z = f(X_1,X_2,...,X_n)=\frac{1}{n} \sum_{i=1}^{n}X_i$">,
+则当<b><i>N</i></b>充分大时，<b><i>N</i></b>近似服从均值为<b><i>μ</i></b>、方差为<img src="https://www.forkosh.com/mathtex.cgi?${\delta^{2}}/{n}$"> 的正态分布，即<b><i>X~N(U,O)</i></b>。
 </p>
 
 <p>
