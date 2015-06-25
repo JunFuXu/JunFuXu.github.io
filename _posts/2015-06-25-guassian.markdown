@@ -8,13 +8,10 @@ p{
 	text-indent: 2em;
 }
 
-body{
- font-size:14em;
-}
 </style>
 
 <p class="intro"><span class="dropcap">
-# 高斯分布</span>
+</span># 高斯分布
 
 ## 一 大纲
 * 为什么我们关注高斯分布
@@ -41,8 +38,7 @@ body{
 </p>
 
 X的熵计算：
-
-![boxDistributiongFormula.png](./entropy.png)
+![boxDistributiongFormula.png]({{ '/assets/img/gaussian/entropy.png' | prepend: site.baseurl }})
 
 一般的如果某一分布的熵越大，那么：
 
@@ -50,39 +46,33 @@ X的熵计算：
 *	压缩就更难
 *	极端更少
 ### 3.1 Box 分布
-
-![boxDistribution.png](./boxDistribution.png)
+![boxDistributiongFormula.png]({{ '/assets/img/gaussian/boxDistribution.png' | prepend: site.baseurl }})
 
 ##### 分布概率分布函数：
 
 ![boxDistributiongFormula.png]({{ '/assets/img/gaussian/boxDistributionFormula.png' | prepend: site.baseurl }})
 
-![boxDistributiongFormula.png](./EXVARXOFBOX.png)
+![boxDistributiongFormula.png]({{ '/assets/img/gaussian/EXVARXOFBOX.png' | prepend: site.baseurl }})
 
 ### 3.2 单位方差的 Box 分布
+![boxDistributiongFormula.png]({{ '/assets/img/gaussian/unitVarianceBoxDistribution.png' | prepend: site.baseurl }})
 
-![boxDistributiongFormula.png](./unitVarianceBoxDistribution.png)
-
-![boxDistributiongFormula.png](./boxDistributionBoxPDF.png)
+![boxDistributiongFormula.png]({{ '/assets/img/gaussian/boxDistributionBoxPDF.png' | prepend: site.baseurl }})
 
 ### 3.3 单位方差的 Hat 分布
+![boxDistributiongFormula.png]({{ '/assets/img/gaussian/HatDis.png' | prepend: site.baseurl }})
 
-![boxDistributiongFormula.png](./HatDis.png)
-
-![boxDistributiongFormula.png](./hatDisPDF.png)
+![boxDistributiongFormula.png]({{ '/assets/img/gaussian/hatDisPDF.png' | prepend: site.baseurl }})
 
 ### 3.4 单位方差的 2-spikes 分布
+![boxDistributiongFormula.png]({{ '/assets/img/gaussian/unit2-SpikesDis.png' | prepend: site.baseurl }})
 
-![boxDistributiongFormula.png](./unit2-SpikesDis.png)
-
-![boxDistributiongFormula.png](./boxDistributionBoxPDF.png)
+![boxDistributiongFormula.png]({{ '/assets/img/gaussian/boxDistributionBoxPDF.png' | prepend: site.baseurl }})
 
 ### 3.5 单位方差的高斯分布(正态分布)
+![boxDistributiongFormula.png]({{ '/assets/img/gaussian/GaussianDis.png' | prepend: site.baseurl }})
 
-![boxDistributiongFormula.png](./GaussianDis.png)
-
-![boxDistributiongFormula.png](./boxDistributionBoxPDF.png)
-
+![boxDistributiongFormula.png]({{ '/assets/img/gaussian/boxDistributionBoxPDF.png' | prepend: site.baseurl }})
 
 ### 3.6 各分布的熵
 <table>
@@ -120,8 +110,6 @@ ps:正态分布是在方差为1的分布中熵最大的分布
 中心极限定理也就解释了，为什么正态分布在大自然中如阳光般的常见。大自然中有很多重复例样，但又不完成相同。比如某天10个人去买彩票(事件相互独立)，那么用中心极限定理就可以很容易的知道，这10个人中奖平均值是服从正态分布。生活中这样的例子简直恒河沙数。
 PS:人类乃至整个宇宙当中很多事件事务都和相似或自相似。以前听一个学数学老师说分形，分形学中有这么一个观点万物都是自相似的。
 </p>
-
-
 
 
 <p class="intro"><span class="dropcap">本</span>来今天是应该去修改小论文的，可是真是一千个一万个的不愿意不写和修改，内心中总感觉有一股无形的力量的排斥那东东，主要是感觉我写的东东太没含金量，我现在只想说对于科研即是渴望又是失望，一直梦想自己能找到人生导师....唉，这个说多了都是泪。论文没要去写，早上起来一到实验室就去刷开源中国,</p>
