@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: resume
 title: 简历 许俊富
 ---
 
