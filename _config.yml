@@ -17,6 +17,8 @@ navigation:
    url: /about
  - title: Contact
    url: /contact
+ - title: 简历
+   url: /resume
 
 social:
    github: JunFuXu
