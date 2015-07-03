@@ -94,7 +94,7 @@ p{
 （挑选你写作或翻译的技术文章，好的文章可以从侧面证实你的表达和沟通能力，也帮助招聘方更了解你）
 
 - [大数据分析技术：游泳数据分析](./assets/resume/1406699654.pptx)
-- [来自Andrew W. Moore的Gaussians分布 (翻译文章)](http://junfuxu.github.io/blog/guassian/) 
+- [来自Andrew W. Moore的Gaussians分布 (翻译文章)](http://junfuxu.github.io/blog/guassian/){:target="_blank"} 
 
 # 演讲和讲义
 
