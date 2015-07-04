@@ -7,6 +7,9 @@ title: 简历 许俊富
 p{
 	text-indent: 2em;
 }
+.callout {
+    float: right;
+}
 </style> 
 <p style="float:right"><a href="./assets/resume/简历--许俊富.docx">下载word格式</a> <a href="./assets/resume/简历-许俊富.pdf">下载PDF格式</a></p>
 ---
@@ -31,7 +34,7 @@ p{
  - 期望职位：C/C++高级程序员，系统架构师
  - 期望薪资：税前月薪10k~15k，特别喜欢的公司可例外
  - 期望城市：上海
-
+![Flowers](./assets/resume/github.jpg){.callout}
 ---
 
 ### 专业技能
