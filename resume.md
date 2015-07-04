@@ -10,6 +10,12 @@ p{
 .callout {
     float: right;
 }
+
+img{
+	height:50px;
+	width:100px;
+	float:right;
+}
 </style> 
 <p style="float:right"><a href="./assets/resume/简历--许俊富.docx">下载word格式</a> <a href="./assets/resume/简历-许俊富.pdf">下载PDF格式</a></p>
 ---
@@ -24,6 +30,8 @@ p{
 
 ### 个人信息
 
+<img src="./assets/resume/JunfuXu.png">
+
  - 许俊富/男/1989 
  - 研究生/上海大学计算机系
  - 籍贯：湖北省黄石市 
@@ -34,8 +42,6 @@ p{
  - 期望职位：C/C++高级程序员，系统架构师
  - 期望薪资：税前月薪10k~15k，特别喜欢的公司可例外
  - 期望城市：上海
-
-<img src="./assets/resume/github.jpg" style="float: right">
 
 ---
 
