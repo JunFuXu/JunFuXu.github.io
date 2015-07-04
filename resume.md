@@ -12,9 +12,10 @@ p{
 }
 
 img{
-	height:50px;
-	width:100px;
-	float:right;
+  height: 141px;
+  width: 100px;
+  float: right;
+  margin-right: 80px;
 }
 </style> 
 <p style="float:right"><a href="./assets/resume/简历--许俊富.docx">下载word格式</a> <a href="./assets/resume/简历-许俊富.pdf">下载PDF格式</a></p>
