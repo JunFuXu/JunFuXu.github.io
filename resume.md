@@ -18,7 +18,9 @@ img{
   margin-right: 80px;
 }
 </style> 
+
 <p style="float:right"><a href="./assets/resume/简历--许俊富.docx">下载word格式</a> <a href="./assets/resume/简历-许俊富.pdf">下载PDF格式</a></p>
+
 ---
 
 ### 联系方式
