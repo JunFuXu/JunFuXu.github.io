@@ -17,13 +17,15 @@ img{
   float: right;
   margin-right: 80px;
 }
-</style> 
 
-<style  media="print" type="text/css">  
-.noprint{display: none;visibility:hidden}  
-</style> 
+.noprint{
+	display: none;
+	float: right;
+	visibility: hidden;
+}
+</style>
 
-<p class="noprint" style="float:right"><a href="./assets/resume/简历--许俊富.docx">下载word格式</a> <a href="./assets/resume/简历-许俊富.pdf">下载PDF格式</a></p>
+<p class ="noprint"><a href="javascrīpt:printme()">打印</a> <a href="./assets/resume/简历--许俊富.docx">下载word格式</a> <a href="./assets/resume/简历-许俊富.pdf">下载PDF格式</a></p>
 
 ---
 
