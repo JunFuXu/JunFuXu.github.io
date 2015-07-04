@@ -20,12 +20,11 @@ img{
 
 .noprint{
 	display: none;
-	float: right;
 	visibility: hidden;
 }
 </style>
 
-<p class ="noprint"><a href="javascrīpt:printme()">打印</a> <a href="./assets/resume/简历--许俊富.docx">下载word格式</a> <a href="./assets/resume/简历-许俊富.pdf">下载PDF格式</a></p>
+<p id="printerInfo" style="float: right;"><a href="javascrīpt:printme();">打印</a> <a href="./assets/resume/简历--许俊富.docx">下载word格式</a> <a href="./assets/resume/简历-许俊富.pdf">下载PDF格式</a></p>
 
 ---
 
