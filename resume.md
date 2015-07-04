@@ -6,6 +6,7 @@ title: 简历 许俊富
 <style type="text/css">
 p{
 	text-indent: 2em;
+	margin-top: 10px;
 }
 .callout {
     float: right;
@@ -24,7 +25,7 @@ img{
 }
 </style>
 
-<p id="printerInfo" style="float: right;"><a href="#" onclick="print()">打印</a> <a href="./assets/resume/简历--许俊富.docx">下载word格式</a> <a href="./assets/resume/简历-许俊富.pdf">下载PDF格式</a></p>
+<p id="printerInfo" style="float: right;"><a href="#" onclick="printResume()">打印</a> <a href="./assets/resume/简历--许俊富.docx">下载word格式</a> <a href="./assets/resume/简历-许俊富.pdf">下载PDF格式</a></p>
 
 ---
 
