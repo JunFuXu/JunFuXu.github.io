@@ -12,6 +12,10 @@ p{
     float: right;
 }
 
+h1,h2,h3,h4,h5{
+font-weight: bold;
+}
+
 img{
   height: 141px;
   width: 100px;
