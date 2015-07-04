@@ -34,7 +34,9 @@ p{
  - 期望职位：C/C++高级程序员，系统架构师
  - 期望薪资：税前月薪10k~15k，特别喜欢的公司可例外
  - 期望城市：上海
-![Flowers](./assets/resume/github.jpg){.callout}
+
+<img src="./assets/resume/github.jpg" style="float: right">
+
 ---
 
 ### 专业技能
