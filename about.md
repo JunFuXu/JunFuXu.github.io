@@ -10,35 +10,35 @@ title: 关于 新成
 	<h2>爱好和特点</h2>
 	<div>
     <div class="row"> 
-      <label class="col-sm-2 control-label">姓名：</label>
+      <label class="col-sm-3 control-label">姓名：</label>
       <div class="col-sm-6">新成</div>
     </div>
     <div class="row"> 
-      <label class="col-sm-2 control-label">籍贯：</label>
+      <label class="col-sm-3 control-label">籍贯：</label>
       <div class="col-sm-6">湖北-阳新</div>
     </div>
     <div class="row"> 
-      <label class="col-sm-2 control-label">邮箱：</label>
+      <label class="col-sm-3 control-label">邮箱：</label>
       <div class="col-sm-6"><a href="mailto:xujunfu@shu.edu.cn">xujunfu@shu.edu.cn</a></div>
     </div>
     <div class="row"> 
-      <label class="col-sm-2 control-label">现居：</label>
+      <label class="col-sm-3 control-label">现居：</label>
       <div class="col-sm-6">上海市-宝山区</div>
     </div>
     <div class="row"> 
-      <label class="col-sm-2 control-label">毕业学校：</label>
+      <label class="col-sm-3 control-label">毕业学校：</label>
       <div class="col-sm-6">上海大学</div>
     </div>
     <div class="row"> 
-      <label class="col-sm-2 control-label">喜欢的书：</label>
+      <label class="col-sm-3 control-label">喜欢的书：</label>
       <div class="col-sm-6"><<上帝掷骰子吗>></div>
     </div>
     <div class="row"> 
-      <label class="col-sm-2 control-label">出生日期：</label>
+      <label class="col-sm-3 control-label">出生日期：</label>
       <div class="col-sm-6">1989-11-21</div>
     </div>
     <div class="row"> 
-      <label class="col-sm-2 control-label">签名：</label>
+      <label class="col-sm-3 control-label">签名：</label>
       <div class="col-sm-6">天地不仁,以万物为刍狗</div>
     </div>
   </div>
