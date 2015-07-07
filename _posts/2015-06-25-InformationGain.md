@@ -98,7 +98,9 @@ P(X=A)=1/3	P(X=B)=1/3	P(X=C)=1/3
 对于来自随机变量X分布的字符流，如果要对该流编码那平均每个字符至少需要多少个bits？
 
 记X的熵为H(X):
-http://www.forkosh.com/mathtex.cgi?$H(X)=-p_{1}log_{2}p_{1}-p_{2}log_{2}p_{2}-\dots-p_{m}log_{2}p_{m}=-\sum_{i=1}^{n}p_{i}log_{2}p_{i}$
+
+<img src="http://www.forkosh.com/mathtex.cgi?$H(X)=-p_{1}log_{2}p_{1}-p_{2}log_{2}p_{2}-\dots-p_{m}log_{2}p_{m}=-\sum_{i=1}^{n}p_{i}log_{2}p_{i}$$">
+
 
 * 熵H(X)的值大意味着随机变量X的取值来自正态分布(混乱的分布)，X变量的直方图会较为平坦
 * 熵H(X)的值小意味着随机变量X的取值来多种多样（峰谷)分布，X变量的直方图有一两值的
