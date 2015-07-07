@@ -39,7 +39,7 @@ p{
 0100001001001110110011111100…
 
 
-## 2.	更佳的比特编码方式
+## 2. 更佳的比特编码方式
 也许有人会告诉你每个字符的概率不一定相等,如下表
 <table class="table-bordered table-condensed table">
 	<tr>
@@ -83,7 +83,7 @@ P(X=A)=1/3	P(X=B)=1/3	P(X=C)=1/3
 
 
 
-## 一般情况，
+## 3. 一般情况，
 假如随机变量X有m种取值V<sub>1</sub>, V<sub>2</sub>, …… ，V<sub>m</sub>
 
 <table class="table-bordered table-condensed table">
