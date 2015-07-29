@@ -126,12 +126,12 @@ img{
 
 ### 技术文章
 
-- [大数据分析技术：游泳数据分析](./assets/resume/1406699654.pptx)
+- [大数据分析技术：Computational Analysis of USA Swimming Data](./assets/resume/1406699654.pptx)
 - [来自Andrew W. Moore的Gaussians分布 (翻译文章)](http://junfuxu.github.io/blog/guassian/)
 
 ### 演讲和讲义
 
- - 2014架构师大会演讲：[大数据分析技术：游泳数据分析](./assets/resume/1406697757.ppt)
+ - 2015HPAC会议演讲：[大数据分析技术：Computational Analysis of USA Swimming Data](./assets/resume/1406699654.pptx)
  - 9月公司内部分享：[机器学习：关联规则挖掘](./assets/resume/1406699654.pptx)
 
 ---
