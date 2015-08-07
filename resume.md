@@ -52,7 +52,7 @@ img{
  - 微博：[@落世离歌](http://weibo.com/u/2438098050)
  - 技术博客：[http://junfuxu.github.io](http://junfuxu.github.io/)
  - Github: [https://github.com/JunFuXu](https://github.com/JunFuXu) 
- - 期望职位：C/C++高级程序员，系统架构师
+ - 期望职位：C/C++ Python高级程序员，系统架构师 数据分析
  - 预计毕业时间：2016-04-01
  - 期望薪资：税前月薪10k~15k，特别喜欢的公司可例外
  - 期望城市：上海
@@ -64,12 +64,11 @@ img{
 以下均为我熟练使用的技能
 
 - Web开发：PHP/Node
-- 后台框架：Lavaral/Codeigniter
+- 后台框架：Codeigniter/Lavaral
 - 前端框架：Bootstrap/AngularJS/ReactJS/HTML5/
 - 数据库相关：MySQL/MongoDB
-- 版本管理、文档和自动化部署工具：Git/Svn/PHPDoc/Composer
-- 单元测试：PHPUnit/SimpleTest/Qunit
-- 云和开放平台：SAE/BAE/AWS/微博开放平台/微信应用开发
+- 版本管理、文档和自动化部署工具：Git/Svn/Pip
+- 云和开放平台：微信公众号开发
 
 ---
 
@@ -77,14 +76,6 @@ img{
 
 #### 上海大学教工体检系统 
 在师兄的带领和合作下，从零开始学习PHP框架开发到按时完成我的项目任务，主要负责后台数据处理相关工作。在这个项目开发过程中，增强了我学习新技术自学能力，代码调试等等，对团队合作开发有了基本认识，同时了解并学会使用SVN代码版本管理工具。最重要的是和优秀师兄合作从他身上学到不少开发相关技术。
-
-#### 高等院校学生健康档案管理平台 
- * 职责：该健康管理平台主要是展示学生的就诊及体检数据，是校企合作项目。我负责其中3个小模块的实施，从沟通需求、编程到测试。
- * 收获：
-   1. 平台使用了.NET框架，参与团队合作。
-   2. 了解了网站相关的优化方案，如数据库冷热备份，MongoDB与Sql Server数据库的差异，数据缓存等。
-   3. 在此平台的基础上讨论数据分析方法。
-
 
 #### 生物信息课题组网站建设 
 独立完成生物信息课题组网站建设，方便课题组日常工作管理。让我对开发有着更加全部了解和认识。主要需求分析，功能模块化分，前后台对接。
@@ -131,8 +122,8 @@ img{
 
 ### 演讲和讲义
 
- - 2015HPAC会议演讲：[大数据分析技术：Computational Analysis of USA Swimming Data](./assets/resume/1406699654.pptx)
- - 9月公司内部分享：[机器学习：关联规则挖掘](./assets/resume/1406699654.pptx)
+ - 2015HPCA会议演讲：[大数据分析技术：Computational Analysis of USA Swimming Data](./assets/resume/1406699654.pptx)
+ - 上海大学生物信息课题组内部分享：[机器学习：关联规则挖掘](./assets/resume/1406699654.pptx)
 
 ---
 
@@ -144,4 +135,5 @@ img{
 ---
 
 ## 致谢
+
 感谢您花时间阅读我的简历，期待能有机会和您共事。
