@@ -3,7 +3,14 @@ layout: default
 title: 关于 新成
 ---
 
-> 啦啦听啦dfgasdfg asdf asdf
+
+### 联系方式
+>- 手机：15201932925 
+>- Email：chaojuanxiang@126.com 
+>- 通讯地址：上海市宝山区上大路99号计算机楼
+
+---
+
 
 <div class="post">
 	<h1 class="pageTitle">关于</h1>
