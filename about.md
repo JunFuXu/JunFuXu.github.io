@@ -3,6 +3,8 @@ layout: default
 title: 关于 新成
 ---
 
+> dfgasdfg asdf asdf
+
 <div class="post">
 	<h1 class="pageTitle">关于</h1>
 	<img src="{{ '/assets/img/shell.jpg' | prepend: site.baseurl }}" alt=""> 
