@@ -3,7 +3,7 @@ layout: default
 title: 关于 新成
 ---
 
-> dfgasdfg asdf asdf
+> 啦啦听啦dfgasdfg asdf asdf
 
 <div class="post">
 	<h1 class="pageTitle">关于</h1>
