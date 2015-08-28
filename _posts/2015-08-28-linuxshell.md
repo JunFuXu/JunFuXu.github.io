@@ -13,11 +13,11 @@ p{
 </style>
 
 <p class="intro">
-	<span class="dropcap">Linux</span>常用命令征集
+	<span class="dropcap">Linux常用命令征集</span>
 </p>
 
 
-### 系统信息
+###系统信息
 * arch 显示机器的处理器架构(1)
 * uname -m 显示机器的处理器架构(2)
 * uname -r 显示正在使用的内核版本
@@ -38,7 +38,7 @@ p{
 * date 041217002007.00 设置日期和时间 - 月日时分年.秒
 * clock -w 将时间修改保存到 BIOS
 
-### 关机 (系统的关机、重启以及登出 )
+###关机 (系统的关机、重启以及登出 )
 * shutdown -h now 关闭系统(1)
 * init 0 关闭系统(2)
 * telinit 0 关闭系统(3)
@@ -210,7 +210,7 @@ p{
 * rpm -ivh /usr/src/redhat/RPMS/`arch`/package.rpm 从一个rpm源码安装一个构建好的包
 * rpmbuild --rebuild package_name.src.rpm 从一个rpm源码构建一个 rpm 包
 
-* YUM 软件包升级器 - （Fedora, RedHat及类似系统）
+### YUM 软件包升级器 - （Fedora, RedHat及类似系统）
 * yum install package_name 下载并安装一个rpm包
 * yum localinstall package_name.rpm 将安装一个rpm包，使用你自己的软件仓库为你解决所有依赖关系
 * yum update package_name.rpm 更新当前系统中所有安装的rpm包
@@ -250,8 +250,8 @@ p{
 * head -2 file1 查看一个文件的前两行
 * tail -2 file1 查看一个文件的最后两行
 * tail -f /var/log/messages 实时查看被添加到一个文件中的内容
-* 
-* 文本处理
+ 
+### 文本处理
 * cat file1 file2 ... | command <> file1_in.txt_or_file1_out.txt general syntax for text manipulation using PIPE, STDIN and STDOUT
 * cat file1 | command( sed, grep, awk, grep, etc...) > result.txt 合并一个文件的详细说明文本，并将简介写入一个新文件中
 * cat file1 | command( sed, grep, awk, grep, etc...) >> result.txt 合并一个文件的详细说明文本，并将简介写入一个已有的文件中
@@ -283,14 +283,14 @@ p{
 * comm -1 file1 file2 比较两个文件的内容只删除 'file1' 所包含的内容
 * comm -2 file1 file2 比较两个文件的内容只删除 'file2' 所包含的内容
 * comm -3 file1 file2 比较两个文件的内容只删除两个文件共有的部分
-* 
-* 字符设置和文件格式转换
+
+### 字符设置和文件格式转换
 * dos2unix filedos.txt fileunix.txt 将一个文本文件的格式从MSDOS转换成UNIX
 * unix2dos fileunix.txt filedos.txt 将一个文本文件的格式从UNIX转换成MSDOS
 * recode ..HTML < page.txt > page.html 将一个文本文件转换成html
 * recode -l | more 显示所有允许的转换格式
-* 
-* 文件系统分析
+
+### 文件系统分析
 * badblocks -v /dev/hda1 检查磁盘hda1上的坏磁块
 * fsck /dev/hda1 修复/检查hda1磁盘上linux文件系统的完整性
 * fsck.ext2 /dev/hda1 修复/检查hda1磁盘上ext2文件系统的完整性
@@ -300,21 +300,21 @@ p{
 * fsck.vfat /dev/hda1 修复/检查hda1磁盘上fat文件系统的完整性
 * fsck.msdos /dev/hda1 修复/检查hda1磁盘上dos文件系统的完整性
 * dosfsck /dev/hda1 修复/检查hda1磁盘上dos文件系统的完整性
-* 
-* 初始化一个文件系统
+
+###  初始化一个文件系统
 * mkfs /dev/hda1 在hda1分区创建一个文件系统
 * mke2fs /dev/hda1 在hda1分区创建一个linux ext2的文件系统
 * mke2fs -j /dev/hda1 在hda1分区创建一个linux ext3(日志型)的文件系统
 * mkfs -t vfat 32 -F /dev/hda1 创建一个 FAT32 文件系统
 * fdformat -n /dev/fd0 格式化一个软盘
 * mkswap /dev/hda3 创建一个swap文件系统
-* 
-* SWAP文件系统
+
+###  SWAP文件系统
 * mkswap /dev/hda3 创建一个swap文件系统
 * swapon /dev/hda3 启用一个新的swap文件系统
 * swapon /dev/hda2 /dev/hdb3 启用两个swap分区
-* 
-* 备份
+
+###  备份
 * dump -0aj -f /tmp/home0.bak /home 制作一个 '/home' 目录的完整备份
 * dump -1aj -f /tmp/home0.bak /home 制作一个 '/home' 目录的交互式备份
 * restore -if /tmp/home0.bak 还原一个交互式备份
@@ -332,8 +332,8 @@ p{
 * find /var/log -name '*.log' | tar cv --files-from=- | bzip2 > log.tar.bz2 查找所有以 '.log' 结尾的文件并做成一个bzip包
 * dd if=/dev/hda of=/dev/fd0 bs=512 count=1 做一个将 MBR (Master Boot Record)内容复制到软盘的动作
 * dd if=/dev/fd0 of=/dev/hda bs=512 count=1 从已经保存到软盘的备份中恢复MBR内容
-* 
-* 光盘
+
+### 光盘
 * cdrecord -v gracetime=2 dev=/dev/cdrom -eject blank=fast -force 清空一个可复写的光盘内容
 * mkisofs /dev/cdrom > cd.iso 在磁盘上创建一个光盘的iso镜像文件
 * mkisofs /dev/cdrom | gzip > cd_iso.gz 在磁盘上创建一个压缩了的光盘iso镜像文件
@@ -345,8 +345,8 @@ p{
 * cd-paranoia -- "-3" 从一个CD光盘转录音轨到 wav 文件中（参数-3）
 * cdrecord --scanbus 扫描总线以识别scsi通道
 * dd if=/dev/hdc | md5sum 校验一个设备的md5sum编码，例如一张 CD
-* 
-* 网络 - （以太网和WIFI无线）
+
+### 网络(以太网和WIFI无线）
 * ifconfig eth0 显示一个以太网卡的配置
 * ifup eth0 启用一个 'eth0' 网络设备
 * ifdown eth0 禁用一个 'eth0' 网络设备
