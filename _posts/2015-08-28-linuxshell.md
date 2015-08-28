@@ -11,13 +11,14 @@ p{
   margin-bottom: 0rem;
 }
 </style>
-
+<div>
 <p class="intro">
-	<span class="dropcap">Linux常用命令征集</span>
+	<span class="dropcap">Linux常用命令征集</span>  
 </p>
+</div>
 
 
-###系统信息
+### 系统信息
 * arch 显示机器的处理器架构(1)
 * uname -m 显示机器的处理器架构(2)
 * uname -r 显示正在使用的内核版本
