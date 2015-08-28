@@ -16,7 +16,7 @@ p{
 	<span class="dropcap">Linux常用命令征集</span>  
 </p>
 </div>
-
+<hr>
 
 ### 系统信息
 * arch 显示机器的处理器架构(1)
