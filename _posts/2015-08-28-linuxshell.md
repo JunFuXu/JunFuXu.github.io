@@ -13,7 +13,7 @@ p{
 </style>
 <div>
 <p class="intro">
-	<span class="dropcap">Linux常用命令征集</span>  
+	<span class="dropcap">Linux常用命令征集</span>Linux常用命令征集
 </p>
 </div>
 <hr>
