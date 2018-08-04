@@ -1,7 +1,7 @@
 title: 新成
 description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
 
-url: http://JunFuXu.github.com
+url: https://JunFuXu.github.com
 baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
@@ -12,16 +12,16 @@ paginate: 5
 
 navigation:
  - title: 主页
-   url: http://junfuxu.github.io/index.html
+   url: https://junfuxu.github.io/index.html
    target: _self
  - title: GitHub
    url: https://github.com/JunFuXu
    target: _blank
  - title: 简历
-   url: http://junfuxu.github.io/resume
+   url: https://junfuxu.github.io/resume
    target: _blank
  - title: 关于
-   url: http://junfuxu.github.io/about
+   url: https://junfuxu.github.io/about
    target: _self
 
 social:
