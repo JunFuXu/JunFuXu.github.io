@@ -1,6 +1,6 @@
 ---
 layout: resume
-title: 简历 许俊富
+title: 简历
 ---
 
 <style type="text/css">
